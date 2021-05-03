@@ -1,4 +1,5 @@
 # backup-script
+[![Build](https://github.com/pressol/backup-script/actions/workflows/build.yml/badge.svg)](https://github.com/pressol/backup-script/actions/workflows/build.yml)
 
 These scripts will allow for me to run a backup and encrypt it locally then store it in MEGA
 using or and other application that i need to use.
